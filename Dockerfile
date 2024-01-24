@@ -1,3 +1,5 @@
+# kommentarfeld für docker für den hotfix
+
 ARG DOCKER_BASE
 FROM $DOCKER_BASE
 
